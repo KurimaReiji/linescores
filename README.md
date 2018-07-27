@@ -35,3 +35,6 @@ Carp   4 3 0  0 0 1  0 0 0  2x  10 10 2
 ]
 ```
 
+## Studies
+
+- [one run games for Giants](studies/study01/study01.md)
