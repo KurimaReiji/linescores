@@ -39,4 +39,4 @@ Carp   4 3 0  0 0 1  0 0 0  2x  10 10 2
 
 - [one run games for Giants](studies/study01/study01.md)
 - [one run games for all Teams](studies/study02/study02.md)
-- [X_WL: Expected won-loss record](studies/study02/study03.md)
+- [X_WL: Expected won-loss record](studies/study03/study03.md)
