@@ -59,3 +59,14 @@ typings/
 
 # next.js build output
 .next
+
+npb/2018/2018-04.json
+npb/2018/2018-05.json
+npb/2018/2018-06.json
+npb/2018/2018-07.json
+npb/merged.json
+mlb/2018/2018-04.json
+mlb/2018/2018-05.json
+mlb/2018/2018-06.json
+mlb/2018/2018-07.json
+mlb/merged.json
